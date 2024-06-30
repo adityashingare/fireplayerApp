@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "409641888913",
+    "project_id": "firemusicplayer2",
+    "storage_bucket": "firemusicplayer2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409641888913:android:0d9026be6ce747856ba330",
+        "android_client_info": {
+          "package_name": "com.project.firemusicplayer2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HRwB1EefPcg-e5C3X1HX4LmhgQGwnnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
